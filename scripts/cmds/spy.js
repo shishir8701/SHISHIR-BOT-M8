@@ -123,7 +123,7 @@ module.exports = {
 ┃ 🏆 𝐑𝐚𝐧𝐤: #${rank}/${allUser.length || "?"}
 ┃ 💵 𝐌𝐨𝐧𝐞𝐲 𝐑𝐚𝐧𝐤: #${moneyRank}/${allUser.length || "?"}
 ┣━〔 ✦ 𝐆𝐑𝐎𝐔𝐏 ✦ 〕━⬣
-┃ 👑 𝐀𝐝𝐦𝐢𝐧 𝐡𝐞𝐫𝐞: ${isAdmin}
+┃ 👑 𝐀𝐝𝐦𝐢𝐧 𝐡𝐞𝐫𝐞:𝑺𝑯𝑰𝑺𝑯𝑰𝑹 {isAdmin}
 ╰━━━━━━━━━━━━━━━━⬣`;
 
       let attachments = [];
