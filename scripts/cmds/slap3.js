@@ -4,7 +4,7 @@ const path = require("path");
 
 module.exports = {
   config: {
-    name: "slap",
+    name: "slap3",
     version: "1.0.0",
     author: "Toshiro Editz",
     countDown: 5,
